@@ -41,7 +41,6 @@ Some of the results of the analysis are included as a storyboard in Tableau. Tak
 [here](https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
 
 
-(https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link)
 
 
 
