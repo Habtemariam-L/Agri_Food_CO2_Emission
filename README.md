@@ -33,7 +33,7 @@ The data used in this case study was sourced from Kaggle.
     
 Additionally a JSON file containing countries geographic data is sourced from [world-countries-json](https://www.kaggle.com/datasets/ktochylin/world-countries) and used for geospatial analysis. 
 
-## Steps of the Analysis
+# Steps of the Analysis
 
 - **Jupyter notebooks and the Anaconda libraries manager** were used for analysis.
 
