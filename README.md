@@ -1,7 +1,7 @@
 # Agri_Food_CO2_Emission
 # Introduction
 
-Carbon dioxide emissions from the agri-food sector contribute a substantial portion of the global annual emissions, and are significant when studying climate change. It is important to understand the environmental impact of the food industry. One relevant aspect is to understand the spatial distribution and the temporal trends of emission from the agri-food sector. 
+This project explores the spatial distribution and temporal trends of CO2 emissions in the agri-food sector, providing insights into geographic patterns and changes over time. Additionally, it investigates the relationship between CO2 emissions and local temperature changes.
 
 # Key Questions 
 
@@ -33,9 +33,50 @@ The data used in this case study was sourced from Kaggle.
     
 Additionally a JSON file containing countries geographic data is sourced from [world-countries-json](https://www.kaggle.com/datasets/ktochylin/world-countries) and used for geospatial analysis. 
 
-# Analysis and Visualization
-Python is used for analysis.
+# Steps of the Analysis
 
+•	Jupyter notebooks and the Anaconda libraries manager were used for analysis.
+
+•	Analysis has been conducted using Python along with the following libraries and modules:
+
+o	Pandas: For data manipulation and analysis.
+
+o	NumPy: For numerical operations and array handling.
+
+o	matplotlib: For creating visualizations.
+
+o	seaborn: For statistical data visualization and enhancement of matplotlib plots.
+
+o	folium: For generating interactive maps.
+
+o	statsmodels.api: For statistical models.
+
+o	scikit-learn: For machine learning, including:
+
+	sklearn.model_selection: For splitting datasets.
+
+	sklearn.linear_model: For linear regression.
+
+	sklearn.metrics: For evaluating model performance.
+
+•	Descriptive analyses have been conducted after importation of data.
+
+•	Data consistency checks conducted (mixed type data, missing data, duplicates and outliers have been identified and addressed accordingly).
+
+•	Data wrangling conducted to improve data integrity, new variables relevant for  the analysis created, standardized the dataset by excluding geographic areas with few data)
+
+•	Inconsistencies in naming of geographical areas in the dataset and JSON file were addressed. 
+
+•	Geospatial analysis using a JSON file has been conducted.
+
+•	Time series analysis has been conducted.
+
+•	Supervised machine learning has been conducted. 
+
+•	Visual analysis was conducted using Tableau, and a storyboard was created to communicate the insights and findings.
+
+
+# Visualization
 Some of the results of the analysis are included as a storyboard in Tableau. You can access the storyboard 
 [here](https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
 
