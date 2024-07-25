@@ -24,13 +24,13 @@ The data used in this case study was sourced from Kaggle.
    
     -Author: Alessandro Lo Bello 
    
-   - URL: (https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) 
+    - URL: (https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) 
    
-   - Contains 6965 rows & 31 column
+    - Contains 6965 rows & 31 column
 
-   - Temporal coverage: 1990-2020
+    - Temporal coverage: 1990-2020
 
-   - Geospatial coverage: worldwide 
+    - Geospatial coverage: worldwide 
 
 Additionally a JSON file containing countries geographic data is sourced from (https://www.kaggle.com/datasets/ktochylin/world-countries) and used for geospatial analysis. 
 
