@@ -40,4 +40,6 @@ Python is used for analysis.
 Some of the results of the analysis are included as a storyboard in Tableau. Take a look at (https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
 
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)]([https://github.com/Habtemariam-L/Agri_Food_CO2_Emission])
+[![GitHub Repository](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Habtemariam-L/Agri_Food_CO2_Emission)
+
+
