@@ -70,17 +70,7 @@ Additionally a JSON file containing countries geographic data is sourced from [w
 
 - **Supervised machine learning** has been conducted.
 
-- **Visual analysis** was conducted using Tableau, and a storyboard was created to communicate the insights and findings.
-
-
-    
-    
-
-
-
-
-# Visualization
-Some of the results of the analysis are included as a storyboard in Tableau. You can access the storyboard 
+- **Visual analysis** was conducted using Tableau, and a storyboard was created to communicate the insights and findings.You can access the storyboard 
 [here](https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
 
 
