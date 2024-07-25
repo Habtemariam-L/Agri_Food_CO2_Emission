@@ -20,9 +20,9 @@ What is the relationship between total/per capita CO2 emission, and the change i
 
 The data used in this case study was sourced from Kaggle.
 
-    -Dataset title: ‘Agrifood CO2 emission dataset’
+    - Dataset title: ‘Agrifood CO2 emission dataset’
    
-    -Author: Alessandro Lo Bello 
+    - Author: Alessandro Lo Bello 
    
     - URL:(https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) 
    
