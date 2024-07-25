@@ -37,7 +37,10 @@ Additionally a JSON file containing countries geographic data is sourced from (h
 # Analysis and Visualization
 Python is used for analysis.
 
-Some of the results of the analysis are included as a storyboard in Tableau. Take a look at (https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
+Some of the results of the analysis are included as a storyboard in Tableau. Take a look at [here](https://example.com](https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
+
+
+(https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link)
 
 
 
