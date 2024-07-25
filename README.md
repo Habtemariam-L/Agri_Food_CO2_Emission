@@ -33,44 +33,50 @@ The data used in this case study was sourced from Kaggle.
     
 Additionally a JSON file containing countries geographic data is sourced from [world-countries-json](https://www.kaggle.com/datasets/ktochylin/world-countries) and used for geospatial analysis. 
 
-# Steps of the Analysis
+## Steps of the Analysis
 
-    Jupyter notebooks and the Anaconda libraries manager were used for analysis.
+- **Jupyter notebooks and the Anaconda libraries manager** were used for analysis.
 
-    Analysis has been conducted using Python along with the following libraries and modules:
-        Pandas: For data manipulation and analysis.
-        NumPy: For numerical operations and array handling.
-        matplotlib: For creating visualizations.
-        seaborn: For statistical data visualization and enhancement of matplotlib plots.
-        folium: For generating interactive maps.
-        statsmodels.api: For statistical models.
-        scikit-learn: For machine learning, including:
-            sklearn.model_selection: For splitting datasets.
-            sklearn.linear_model: For linear regression.
-            sklearn.metrics: For evaluating model performance.
+- **Analysis has been conducted using Python along with the following libraries and modules**:
+  - **Pandas**: For data manipulation and analysis.
+  - **NumPy**: For numerical operations and array handling.
+  - **matplotlib**: For creating visualizations.
+  - **seaborn**: For statistical data visualization and enhancement of `matplotlib` plots.
+  - **folium**: For generating interactive maps.
+  - **statsmodels.api**: For statistical models.
+  - **scikit-learn**:
+    - **`sklearn.model_selection`**: For splitting datasets.
+    - **`sklearn.linear_model`**: For linear regression.
+    - **`sklearn.metrics`**: For evaluating model performance.
 
-    Descriptive analyses have been conducted after importation of data.
+- **Descriptive analyses** have been conducted after importation of data.
 
-    Data consistency checks conducted:
-        Mixed type data
-        Missing data
-        Duplicates
-        Outliers have been identified and addressed accordingly.
+- **Data consistency checks**:
+  - Mixed type data
+  - Missing data
+  - Duplicates
+  - Outliers have been identified and addressed accordingly.
 
-    Data wrangling conducted to:
-        Improve data integrity
-        Create new variables relevant for the analysis
-        Standardize the dataset by excluding geographic areas with few data
+- **Data wrangling**:
+  - Improved data integrity
+  - Created new variables relevant for the analysis
+  - Standardized the dataset by excluding geographic areas with few data
 
-    Inconsistencies in naming of geographical areas in the dataset and JSON file were addressed.
+- **Inconsistencies in naming of geographical areas** in the dataset and JSON file were addressed.
 
-    Geospatial analysis using a JSON file has been conducted.
+- **Geospatial analysis** using a JSON file has been conducted.
 
-    Time series analysis has been conducted.
+- **Time series analysis** has been conducted.
 
-    Supervised machine learning has been conducted.
+- **Supervised machine learning** has been conducted.
 
-    Visual analysis was conducted using Tableau, and a storyboard was created to communicate the insights and findings.
+- **Visual analysis** was conducted using Tableau, and a storyboard was created to communicate the insights and findings.
+
+
+    
+    
+
+
 
 
 # Visualization
