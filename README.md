@@ -24,7 +24,7 @@ The data used in this case study was sourced from Kaggle.
    
     -Author: Alessandro Lo Bello 
    
-    - URL: (https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) 
+    - URL:(https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) 
    
     - Contains 6965 rows & 31 column
 
