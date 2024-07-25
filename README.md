@@ -32,7 +32,7 @@ The data used in this case study was sourced from Kaggle.
 
     Geospatial coverage: worldwide 
 
-Additionally a JSON file containing countries geographic data is sourced from (https://www.kaggle.com/datasets/ktochylin/world-countries) and used. 
+Additionally a JSON file containing countries geographic data is sourced from (https://www.kaggle.com/datasets/ktochylin/world-countries) and used for geospatial analysis. 
 
 # Analysis and Visualization
 Python is used for analysis.
