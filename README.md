@@ -38,8 +38,8 @@ Additionally a JSON file containing countries geographic data is sourced from [w
 - **Jupyter notebooks and the Anaconda libraries manager** were used for analysis.
 
 - **Analysis has been conducted using Python along with the following libraries and modules**:
-  - **Pandas**: For data manipulation and analysis.
-  - **NumPy**: For numerical operations and array handling.
+  - **pandas**: For data manipulation and analysis.
+  - **numpy**: For numerical operations and array handling.
   - **matplotlib**: For creating visualizations.
   - **seaborn**: For statistical data visualization and enhancement of `matplotlib` plots.
   - **folium**: For generating interactive maps.
