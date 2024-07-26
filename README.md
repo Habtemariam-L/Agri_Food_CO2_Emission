@@ -61,7 +61,7 @@ Additionally a JSON file containing countries geographic data is sourced from [w
 
 - **Time series analysis** has been conducted.
 
-- **Supervised machine learning** using regression analysis has been conducted.
+- **Supervised machine learning** using regression model has been conducted.
 
 - **Visual analysis** has been conducted using Tableau, and a storyboard was created to communicate the findings.You can access the storyboard 
 [here](https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
