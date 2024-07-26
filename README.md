@@ -53,7 +53,7 @@ Additionally a JSON file containing countries geographic data is sourced from [w
 
 - **Data consistency checks** conducted(mixed type data, missing data, duplicates and outliers have been identified and addressed accordingly).
 
-- **Subsetting and Data wrangling**(improved data integrity,created new variables relevant for the analysis,standardized the dataset by excluding geographic areas with few data).
+- **Subsetting and Data wrangling**(improved data integrity,created new variables relevant for the analysis,standardized the dataset by excluding geographic areas with few data, subsetting).
 
 - **Inconsistencies in naming of geographical areas** in the dataset and JSON file were addressed.
 
